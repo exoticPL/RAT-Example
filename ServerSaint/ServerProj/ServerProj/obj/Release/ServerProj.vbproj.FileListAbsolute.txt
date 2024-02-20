@@ -1,0 +1,11 @@
+C:\Users\exotic\Desktop\Workstation\My Projects\Saint\Server\ServerProj\ServerProj\bin\Release\ServerProj.exe.config
+C:\Users\exotic\Desktop\Workstation\My Projects\Saint\Server\ServerProj\ServerProj\bin\Release\ServerProj.exe
+C:\Users\exotic\Desktop\Workstation\My Projects\Saint\Server\ServerProj\ServerProj\bin\Release\ServerProj.pdb
+C:\Users\exotic\Desktop\Workstation\My Projects\Saint\Server\ServerProj\ServerProj\bin\Release\ServerProj.xml
+C:\Users\exotic\Desktop\Workstation\My Projects\Saint\Server\ServerProj\ServerProj\obj\Release\ServerProj.vbproj.AssemblyReference.cache
+C:\Users\exotic\Desktop\Workstation\My Projects\Saint\Server\ServerProj\ServerProj\obj\Release\ServerProj.Resources.resources
+C:\Users\exotic\Desktop\Workstation\My Projects\Saint\Server\ServerProj\ServerProj\obj\Release\ServerProj.vbproj.GenerateResource.cache
+C:\Users\exotic\Desktop\Workstation\My Projects\Saint\Server\ServerProj\ServerProj\obj\Release\ServerProj.vbproj.CoreCompileInputs.cache
+C:\Users\exotic\Desktop\Workstation\My Projects\Saint\Server\ServerProj\ServerProj\obj\Release\ServerProj.exe
+C:\Users\exotic\Desktop\Workstation\My Projects\Saint\Server\ServerProj\ServerProj\obj\Release\ServerProj.xml
+C:\Users\exotic\Desktop\Workstation\My Projects\Saint\Server\ServerProj\ServerProj\obj\Release\ServerProj.pdb
